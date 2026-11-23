@@ -57,7 +57,7 @@ class Katalog extends StatefulWidget {
       'gambar': 'https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png',
       'deskripsi': 'Penyimpanan portable USB 3.0, cepat dan ringkas.',
     },
-    // ---------- Produk baru (Tugas 1) ----------
+    
     {
       'nama': 'SSD SanDisk 1TB',
       'kategori': 'Elektronik',
